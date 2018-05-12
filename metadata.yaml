@@ -1,0 +1,36 @@
+_repo: Robert-Coverdale-s-Struggle--Or-on-the-Wave-of-Success_30372
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alger, Horatio, Jr.
+    aliases:
+    - Jr., Horatio Alger
+    - Putnam, Arthur Lee
+    - Preston, Charles F.
+    - Starr, Julian
+    - Alger, Horatio
+    birthdate: 1832
+    deathdate: 1899
+    gutenberg_agent_id: '168'
+    url: http://www.gutenberg.org/2009/agents/168
+    wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
+description: ''
+gutenberg_issued: '2009-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30372'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Hermits -- Fiction'
+- !lcsh 'New England -- History -- 19th century -- Fiction'
+- !lcsh 'Conduct of life -- Fiction'
+- !lcsh 'Missing persons -- Fiction'
+title: Robert Coverdale's Struggle; Or, on the Wave of Success
+url: http://www.gutenberg.org/ebooks/30372
