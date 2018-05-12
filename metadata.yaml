@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/168
     wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30372#Robert-Coverdale-s-Struggle--Or-on-the-Wave-of-Success
 gutenberg_issued: '2009-10-31'
 gutenberg_type: Text
 identifiers:
